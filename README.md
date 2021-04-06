@@ -5,11 +5,6 @@
 #include <time.h>
 #include <cmath>
 using namespace std;
-
-
-
-
-
 int main(){
   const int X = 21;
   char Array[X];
